@@ -21,3 +21,16 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+.vscode
+
+.jshintrc
+
+gulpfile.js
+
+package-lock.json
+
+package.json
+
+node_modules
+
